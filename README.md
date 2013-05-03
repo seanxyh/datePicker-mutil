@@ -1,4 +1,4 @@
-##See the example.html file, you will know how to use it.##
+##Click the link##
 
 ###[`List All`](http://www.seanxyh.com/plugins/datePicker-mutli/dateAll/date.html)###
 
